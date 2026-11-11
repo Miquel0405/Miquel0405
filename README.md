@@ -1,4 +1,4 @@
-# Hi, I'm Miquel Plana!
+# Hi, I'm Miquel!
 
 I'm a Software Engineer graduated from **INSA Toulouse**, specializing in **Embedded Computer Systems**.
 
