@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Miquel Plana!
 
-<!--
-**Miquel0405/Miquel0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer graduated from **INSA Toulouse**, specializing in **Embedded Computer Systems**.
 
-Here are some ideas to get you started:
+I'm interested in software engineering, embedded systems, and full-stack development. I enjoy designing and developing software solutions, learning new technologies, and working on challenging technical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- **Programming Languages:** Python, Java, C, JavaScript, TypeScript
+- **Backend:** Django, Django REST Framework, Spring Boot
+- **Frontend:** React, Angular
+- **Databases:** PostgreSQL, SQL
+- **Tools & Technologies:** Git, Docker, Jenkins, Linux, Playwright
+
+### Featured Projects
+
+- **PonentPorras:** Currently working on a full-stack football prediction platform built with React, Django REST Framework, and PostgreSQL.
+- **University Projects:** Software engineering and embedded systems projects developed during my engineering studies.
+
+### Areas of Interest
+
+- Embedded Software Engineering
+- Backend Development
+- Software Architecture and Testing
+- Full-Stack Development
+- CI/CD and Software Quality
+
+### Languages
+
+- Catalan: Native
+- Spanish: Native
+- English: B2+
+- French: C1
+
+---
+
+Feel free to explore my repositories and projects!
